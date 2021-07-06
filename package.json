@@ -1,0 +1,27 @@
+{
+  "name": "node_hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "server1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReiyaMori/node_hello_world.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "server"
+  ],
+  "author": "ReiyaMori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReiyaMori/node_hello_world/issues"
+  },
+  "homepage": "https://github.com/ReiyaMori/node_hello_world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
